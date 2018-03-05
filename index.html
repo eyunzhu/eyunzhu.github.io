@@ -1,11 +1,59 @@
-<html>
-<head>
-  <tile>我的GitHub</title>
- </head>
- <body>
-  <a href="http://video.eyunzhu.com/">vip影视</a><br />
-		<a href="http://eyunzhu.com/">忆云竹</a><br />
-		<a href="http://sale.eyunzhu.com/">建站一条龙</a><br />
-		<a href="http://520.eyunzhu.com/">一键建站</a><br />
- </body>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/TypewriterJS/1.0.0/typewriter.min.js"></script>  
+        <title>忆云竹</title>
+      <style tyle="css/text">
+      #asklz{
+  color:red;
+}
+.web_li{
+  margin:20px;
+}
+.web_li li{
+  font-size:20px;
+  list-style:none;
+  color:#cacaca;
+}
+.web_li li a{
+  text-decoration:none;
+  color:black;
+}
+      </style>
+    </head>
+    <body>
+        <div id="asklz">
+        </div>    
+      <div class="web_li">
+        我的网站
+        <ul>
+          <li><a href="http://eyunzhu.com">忆云竹</a></li>
+          <li><a href="http://video.eyunzhu.com">VIP影视</a></li>
+          <li><a href="http://tb.eyunzhu.com">小淘券</a></li>
+          <li><a href="http://eyunzhu.com">忆云竹</a></li>
+          <li><a href="http://nav.eyunzhu.com">......</a></li>
+        </ul>
+      </div>
+      
+        <script>
+            var app = document.getElementById('asklz');		
+            var typewriter = new Typewriter(asklz, {   			 loop: true		});		
+            typewriter.typeString('欢迎来到我的GitHub')  		 	
+            .pauseFor(2500)  	 		
+            .deleteAll()  	 		
+            .typeString('该说些什么呢？') 	  		
+            .pauseFor(2500)			
+            .typeString('让我好好想想..')			
+            .deleteAll()			
+            .typeString('有了！')			
+            .pauseFor(2500)			
+            .deleteAll()			
+            .typeString('其实，我挺棒的')			
+            .pauseFor(2500)  			
+            .deleteChars(3)  	 		
+            .typeString('很谦虚!')  	 		
+            .start();    
+        </script>  
+    </body>
 </html>
