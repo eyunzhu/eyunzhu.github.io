@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
+### 存储库
+- [PHP(学习记录)](https://eyunzhu.github.io/php)
+- [Behavior_observation](https://github.com/eyunzhu/Behavior_observation)
+- [H5_class(仿葫芦侠三楼)](https://github.com/eyunzhu/H5_class)
+- [homework(移动应用开发、jsp、php等课程作业)](https://eyunzhu.github.io/homework/)
+***
+### 网站
+- [忆云竹(个人博客)](http://eyunzhu.com)
+- [小白主机(特惠主机空间)](http://host.eyunzhu.com)
+- [免VIP影视(在线影视无广告免VIP)](http://video.eyunzhu.com)
+- [小陶券(淘宝优惠券集合,购物先领券)](http://tb.eyunzhu.com)
 
-You can use the [editor on GitHub](https://github.com/eyunzhu/eyunzhu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+微信公众号：小白资源分享
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eyunzhu/eyunzhu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![微信公众号](http://video.eyunzhu.com/gzh.jpg)
