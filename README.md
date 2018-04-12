@@ -8,6 +8,7 @@
 ***
 ### 快捷
 - [JQueryNote](https://github.com/eyunzhu/homework/blob/master/mad/JQueryNote.md)
+- [ajax](https://eyunzhu.github.io/homework/mad/ajax/)
 
 ### 网站
 - [忆云竹(个人博客)](http://eyunzhu.com)
